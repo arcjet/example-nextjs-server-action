@@ -19,10 +19,9 @@ headers in middleware.
 ## Features
 
 - [Bot protection](https://docs.arcjet.com/bot-protection/quick-start) shows how
-  a page can be protected from automated clients.
-- [Rate limiting](https://docs.arcjet.com/rate-limiting/quick-start) shows the
-  use of different rate limit configurations depending on the authenticated
-  user. A logged-in user can make more requests than an anonymous user.
+  the server action can be protected from automated clients.
+- [Rate limiting](https://docs.arcjet.com/rate-limiting/quick-start) shows a
+  rate limit configuration that limits the number of requests from a single IP.
 - [Attack protection](https://docs.arcjet.com/shield/quick-start) demonstrates
   Arcjet Shield, which detects suspicious behavior, such as SQL injection and
   cross-site scripting attacks.
